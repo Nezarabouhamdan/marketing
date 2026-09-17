@@ -1,0 +1,31 @@
+BUSINESS = {
+    "name_en": "Khales Group",
+    "name_ar": "مجموعة خالص",
+    "website": "khales.ae",
+    "email": "info@khales.ae",
+    "main_phone": "+971 4 557 1184",
+    "whatsapp_24_7": "+971 55 129 9880",
+    "working_hours": "Sunday to Thursday, 9:00 AM – 6:00 PM (UAE time). 24/7 customer service available on WhatsApp.",
+    "services": [
+        "Project Management",
+        "Engineering Consultancy",
+        "Interior Design",
+        "Architectural Design",
+        "Construction Supervision",
+        "Villa Cost Estimation",
+    ],
+    "offices": [
+        {"name": "Dubai Majlis", "address": "M03, Building 5 Block B, Design District, Dubai", "phone": "+971 4 580 6307"},
+        {"name": "Dubai Branch", "address": "113, SIT Tower, Dubai Silicon Oasis, Dubai", "phone": "+971 4 557 1184"},
+        {"name": "Sharjah Branch", "address": "Shop 11, Block C, Al Saud Head Office, Muwaileh, Sharjah", "phone": "+971 6 551 8070"},
+        {"name": "Fujairah Branch", "address": "Office 202, Creative Tower, Hamad Bin Abdulla St., Fujairah", "phone": "+971 9 501 0762"},
+        {"name": "Abu Dhabi Branch", "address": "Al Qana, Rabdan, Abu Dhabi", "status": "Opening Soon"},
+        {"name": "London, UK Branch", "address": "London, UK", "status": "Opening Soon"},
+    ],
+    "consultation_url": "https://khales.ae/book-consultation",
+    "rules": {
+        "never_quote_prices": True,
+        "never_promise_timelines": True,
+        "escalation_channel": "WhatsApp +971 55 129 9880",
+    },
+}

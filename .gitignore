@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+uploads/
+ig_images/
+*.db
+publisher.log
+scheduler.log
